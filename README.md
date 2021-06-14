@@ -1,2 +1,3 @@
 # PvZ-Plants-vs.-Zombies
-use C++ and QT
+C++ and QT are used.
+Please note that in order to compile the source code, you need to copy the folder "image" into the folder named "code".
